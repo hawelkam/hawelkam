@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Michał and I'm a frontend developer.
+
+
+
+## My most used languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawelkam)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **hawelkam/hawelkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
